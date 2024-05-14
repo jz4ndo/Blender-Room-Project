@@ -1,2 +1,3 @@
 # Blender-Room-Project
-Progetto realizzato in Blender, raffigurante una stanza con mobilia
+Project created in Blender, depicting a room with furniture. 
+The project was created with Blender for a university exam, the project was exported and rendered
